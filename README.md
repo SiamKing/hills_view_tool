@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+HillsViewTool::Renderer.copyright 'TJ Hill', 'All rights reserved'
+```
 
 ## Development
 
